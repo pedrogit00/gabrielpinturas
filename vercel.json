@@ -1,5 +1,4 @@
 {
-  "buildCommand": "npm run build",
+  "buildCommand": "npm run build && cp index.html dist/client/index.html",
   "outputDirectory": "dist/client"
 }
-
